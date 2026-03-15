@@ -4,3 +4,7 @@ seaborn
 
 scikit-learn
 imblearn
+
+joblib
+
+shap
