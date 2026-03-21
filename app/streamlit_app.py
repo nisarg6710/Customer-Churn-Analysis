@@ -69,7 +69,7 @@ if customer_id:
 
 
 ## interactive plots
-
+st.write(df[["avg_rech_amt_6_7", "rech_freq_drop"]].describe())
 fig = px.scatter(
     df,
     x="avg_rech_amt_6_7",
