@@ -58,7 +58,8 @@ if customer_id:
             st.write("Customers predicted to churn:", len(predicted))
 
             st.write("Customer Details")
-            st.dataframe(customer)
+
+            st.dataframe(customer.astype(str))
     
     except Exception as e:
         st.error("Enter a valid monile number, error is", e)
