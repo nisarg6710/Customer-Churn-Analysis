@@ -65,7 +65,7 @@ if customer_id:
             st.write(customer)
     
     except Exception as e:
-        st.error("Enter a valid monile number, error is", e)
+        st.error("Enter a valid mobile number. Error is: {e}")
 
 
 ## interactive plots
@@ -75,9 +75,9 @@ fig = px.scatter(
     x="avg_rech_amt_6_7",
     y="rech_freq_drop",
     color="risk_segment",
-    title="Customer Recharge Behavior vs Churn Risk"
+    title="Customer Recharge Behavior vs Churn Risk",
+    opacity=0.6
 )
-
 st.plotly_chart(fig)
 
 
