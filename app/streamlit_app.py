@@ -8,6 +8,9 @@ st.title("Telecom Customer Churn Dashboard")
 # Load data
 df = pd.read_csv("data/final_customer_churn_predictions_with_strategy.csv")
 
+df["avg_rech_amt_6_7"] = pd.to_numeric(df["avg_rech_amt_6_7"], errors="coerce")
+df["rech_freq_drop"] = pd.to_numeric(df["rech_freq_drop"], errors="coerce")
+
 # Load model
 model = joblib.load("models/churn_rf_model.pkl")
 
