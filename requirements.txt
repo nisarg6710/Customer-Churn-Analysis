@@ -8,3 +8,7 @@ imblearn
 joblib
 
 shap
+
+streamlit
+
+plotly

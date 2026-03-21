@@ -1,3 +1,5 @@
 venv/
-data/
-models/
+data/telecom_churn_data.csv
+data/phase1_high_value_customer.csv
+data/phase2_churn_label_creation.csv
+data/phase3_feature_engineering.csv
