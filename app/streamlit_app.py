@@ -59,7 +59,7 @@ if customer_id:
 
             st.write("Customer Details")
 
-            st.dataframe(customer.astype(str))
+            st.write(customer)
     
     except Exception as e:
         st.error("Enter a valid monile number, error is", e)
