@@ -69,7 +69,7 @@ if customer_id:
 
 
 ## interactive plots
-st.write(df[["avg_rech_amt_6_7", "rech_freq_drop"]].describe())
+# st.write(df[["avg_rech_amt_6_7", "rech_freq_drop"]].describe())
 fig = px.scatter(
     df,
     x="avg_rech_amt_6_7",
@@ -78,7 +78,11 @@ fig = px.scatter(
     title="Customer Recharge Behavior vs Churn Risk",
     opacity=0.6
 )
-st.plotly_chart(fig)
+# st.plotly_chart(fig)
+
+fig.update_traces(marker=dict(size=7))
+
+st.plotly_chart(fig, use_container_width=True)
 
 
 ## roi calculator
