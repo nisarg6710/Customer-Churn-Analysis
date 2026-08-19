@@ -7,9 +7,7 @@ data/phase3_feature_engineering.csv
 report_recent.md
 
 .env
-venv/
 __pycache__/
-data/vectorstore/
 
 test_temp/
 
