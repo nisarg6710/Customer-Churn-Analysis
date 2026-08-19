@@ -21,3 +21,9 @@ langchain-openai
 langgraph
 faiss-cpu
 openai
+
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
