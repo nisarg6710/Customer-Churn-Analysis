@@ -1,0 +1,41 @@
+RETENTION OFFERS
+
+OFFER: PREMIUM_RECHARGE
+Name: Premium Recharge Incentive
+Cost: 40
+Target: High-value high-risk customers
+Purpose: Encourage customers showing declining recharge behavior.
+
+OFFER: DATA_PACK
+Name: Discounted Data Pack
+Cost: 30
+Target: Medium/high-risk customers with declining data usage.
+Purpose: Re-engage customers whose data consumption is declining.
+
+OFFER: PREMIUM_DATA_PACK
+Name: Premium Discounted Data Pack
+Cost: 40
+Target: High-value high-risk customers with significant data decline.
+Purpose: Retain valuable customers showing strong data engagement deterioration.
+
+OFFER: LOYALTY
+Name: High-Value Loyalty Offer
+Cost: 50
+Target: High-value high-risk customers.
+Purpose: Provide a premium retention incentive.
+
+OFFER: SMS
+Name: Personalized SMS Campaign
+Cost: 10
+Target: Medium/high-risk customers.
+Purpose: Low-cost customer engagement.
+
+OFFER: RETENTION_CALL
+Name: Personalized Retention Call
+Cost: 30
+Target: High-value high-risk customers.
+Purpose: Direct personalized intervention.
+
+Important:
+Offer costs are scenario assumptions for this project.
+They are not measured campaign costs from real telecom operations.

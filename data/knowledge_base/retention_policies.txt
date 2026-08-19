@@ -1,0 +1,35 @@
+TELECOM CUSTOMER RETENTION POLICY
+
+Policy 1: High-value high-risk customers
+High-value customers with high churn risk receive priority retention treatment.
+
+Allowed interventions:
+- Premium recharge incentives
+- Premium discounted data packs
+- Personalized retention calls
+- Loyalty offers
+
+Policy 2: Medium-value high-risk customers
+Use cost-controlled digital interventions.
+
+Allowed interventions:
+- Personalized SMS campaigns
+- Discounted data packs
+- Recharge incentives
+
+Policy 3: Low-value high-risk customers
+Retention spending should remain low.
+
+Preferred interventions:
+- Personalized SMS
+- Minimal-cost engagement
+
+Policy 4: Medium-risk customers
+Avoid expensive interventions unless the customer has high business value.
+
+Policy 5: Low-risk customers
+No active retention intervention is normally required.
+
+Important:
+The policies describe business rules and eligibility.
+They do not establish causal effectiveness of any intervention.

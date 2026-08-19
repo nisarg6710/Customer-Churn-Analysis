@@ -1,0 +1,28 @@
+RETENTION DECISION PLAYBOOK
+
+If recharge frequency is the strongest declining behavior:
+Prioritize recharge incentives.
+
+If data usage is the strongest declining behavior:
+Prioritize data-pack interventions.
+
+If outgoing usage is the strongest declining behavior:
+Prioritize personalized engagement or retention calls.
+
+For high-value high-risk customers:
+Prefer stronger interventions.
+
+For low-value high-risk customers:
+Prefer low-cost interventions.
+
+For low-risk customers:
+Do not spend retention budget unnecessarily.
+
+The system should always explain:
+1. Why the customer is considered risky.
+2. Why the customer is valuable.
+3. Which behavior is deteriorating.
+4. Why the selected action is appropriate.
+5. Which policy supports the recommendation.
+
+The system must not claim that an intervention will definitely prevent churn unless historical treatment/outcome data supports such a claim.
