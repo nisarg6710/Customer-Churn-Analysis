@@ -12,3 +12,7 @@ __pycache__/
 data/vectorstore/
 
 test_temp/
+
+.streamlit/secrets.toml
+
+*.pyc
