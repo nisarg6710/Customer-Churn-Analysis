@@ -27,3 +27,5 @@ langchain-community
 langchain-huggingface
 faiss-cpu
 sentence-transformers
+
+langchain_google_genai
